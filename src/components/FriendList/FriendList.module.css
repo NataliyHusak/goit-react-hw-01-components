@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  padding: 40px;
+  background: #6e889c;
+}
+
+.friend__list {
+  list-style: none;
+}
